@@ -31,7 +31,7 @@ Me chamo Gabriel Honorio da Cruz Braz, tenho 20 anos
   alt = "Github Stats"
   heigth = "200"
   style= "padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=7"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhbrz&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=7"
 />
 
 
