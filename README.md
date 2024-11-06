@@ -1,7 +1,8 @@
 ## Gabriel
----
+
 Me chamo Gabriel Honorio da Cruz Braz, tenho 20 anos
 
+---
 ### 🤖 Technologies and tools:
 
 <div style="display: inline_block"><br>
@@ -13,7 +14,7 @@ Me chamo Gabriel Honorio da Cruz Braz, tenho 20 anos
   <img align="center" alt="Node" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" >
 
           
----
+
 </div><br>
 
 ### 📊 GitHub Stats
