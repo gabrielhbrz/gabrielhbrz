@@ -28,7 +28,7 @@ Meu nome é Gabriel Honorio, Tenho 20 anos e sou natural de São Paulo. Atualmen
 
 ### 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github.com/gabrielhbrz/gabrielhbrz/releases/download/latest/github-metrics.svg)
+![GitHub Metrics](https://raw.githubusercontent.com/gabrielhbrz/gabrielhbrz/main/github-metrics.svg)
 
 
 
